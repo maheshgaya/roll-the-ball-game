@@ -11,7 +11,7 @@ Note: This executable file will run on Mac OS X only.
   ```
   $ git clone "https://github.com/maheshgaya/Gaya12.git"
   ```
-2. Double click on the file to open the game
+2. Double click on the "Gaya12_roll-a-ball_mac-os-x.app" to open the game
 
 
 ## License

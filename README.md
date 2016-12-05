@@ -1,5 +1,5 @@
 # Roll The Ball Game
-Final Assignment - Webgl
+Assignment 12 - Webgl
 
 This project is a game. User rolls a ball to collect cubes within 30 seconds.
 
